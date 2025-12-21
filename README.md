@@ -27,6 +27,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | [0088-merge-sorted-array](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0496-next-greater-element-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0682-baseball-game) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [3433-count-mentions-per-user](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3433-count-mentions-per-user) |
 ## Math
@@ -41,6 +42,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0682-baseball-game) |
 | [3433-count-mentions-per-user](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3433-count-mentions-per-user) |
 ## Dynamic Programming
 |  |
@@ -54,6 +56,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
