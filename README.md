@@ -25,6 +25,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0496-next-greater-element-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0496-next-greater-element-i) |
 | [3433-count-mentions-per-user](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3433-count-mentions-per-user) |
 ## Math
 |  |
@@ -43,4 +44,16 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0496-next-greater-element-i) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
