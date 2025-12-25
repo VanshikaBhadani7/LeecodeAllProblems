@@ -33,6 +33,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0009-palindrome-number) |
 | [3433-count-mentions-per-user](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3433-count-mentions-per-user) |
 ## Sorting
 |  |
