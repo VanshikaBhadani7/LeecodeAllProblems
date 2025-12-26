@@ -16,6 +16,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2483-minimum-penalty-for-a-shop) |
 ## String Matching
 |  |
 | ------- |
@@ -69,4 +70,8 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3075-maximize-happiness-of-selected-children) |
+## Prefix Sum
+|  |
+| ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
