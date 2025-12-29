@@ -15,6 +15,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0756-pyramid-transition-matrix](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0756-pyramid-transition-matrix) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2483-minimum-penalty-for-a-shop) |
 ## String Matching
@@ -60,6 +61,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0496-next-greater-element-i) |
+| [0756-pyramid-transition-matrix](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0756-pyramid-transition-matrix) |
 | [2402-meeting-rooms-iii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2402-meeting-rooms-iii) |
 ## Stack
 |  |
@@ -104,4 +106,12 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0145-binary-tree-postorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0756-pyramid-transition-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0756-pyramid-transition-matrix) |
 <!---LeetCode Topics End-->
