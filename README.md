@@ -25,6 +25,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -39,6 +40,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0066-plus-one) |
 | [3433-count-mentions-per-user](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3433-count-mentions-per-user) |
 ## Sorting
 |  |
