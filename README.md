@@ -34,6 +34,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1390-four-divisors) |
+| [1975-maximum-matrix-sum](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1975-maximum-matrix-sum) |
 | [2402-meeting-rooms-iii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2402-meeting-rooms-iii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3433-count-mentions-per-user) |
@@ -81,6 +82,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 |  |
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1975-maximum-matrix-sum](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1975-maximum-matrix-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Prefix Sum
 |  |
@@ -98,6 +100,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1975-maximum-matrix-sum](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1975-maximum-matrix-sum) |
 ## Tree
 |  |
 | ------- |
