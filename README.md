@@ -15,6 +15,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0756-pyramid-transition-matrix) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -62,6 +63,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Hash Table
 |  |
 | ------- |
