@@ -131,4 +131,8 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
