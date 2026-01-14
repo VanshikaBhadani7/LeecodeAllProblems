@@ -43,6 +43,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | [3075-maximize-happiness-of-selected-children](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3454-separate-squares-ii) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +109,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | [2089-find-target-indices-after-sorting-array](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3453-separate-squares-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3454-separate-squares-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -144,4 +146,12 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1757-recyclable-and-low-fat-products) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
