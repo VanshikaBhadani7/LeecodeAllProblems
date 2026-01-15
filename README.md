@@ -40,6 +40,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | [2089-find-target-indices-after-sorting-array](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2402-meeting-rooms-iii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2402-meeting-rooms-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3453-separate-squares-i) |
@@ -58,6 +59,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | [2089-find-target-indices-after-sorting-array](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2402-meeting-rooms-iii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2402-meeting-rooms-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3433-count-mentions-per-user) |
 ## Simulation
