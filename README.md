@@ -83,6 +83,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0682-baseball-game) |
@@ -120,16 +121,19 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Backtracking
