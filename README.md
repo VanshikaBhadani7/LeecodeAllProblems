@@ -37,6 +37,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1390-four-divisors) |
+| [1895-largest-magic-square](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1975-maximum-matrix-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2402-meeting-rooms-iii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2402-meeting-rooms-iii) |
@@ -102,6 +103,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 ## Prefix Sum
 |  |
 | ------- |
+| [1895-largest-magic-square](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Heap (Priority Queue)
 |  |
@@ -122,6 +124,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1895-largest-magic-square](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1975-maximum-matrix-sum) |
 ## Tree
 |  |
