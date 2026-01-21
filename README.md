@@ -45,6 +45,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3433-count-mentions-per-user](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3454-separate-squares-ii) |
@@ -154,6 +155,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0756-pyramid-transition-matrix) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
