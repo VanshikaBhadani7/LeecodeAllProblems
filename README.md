@@ -49,6 +49,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | [3433-count-mentions-per-user](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3454-separate-squares-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | [0682-baseball-game](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0682-baseball-game) |
 | [2402-meeting-rooms-iii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3433-count-mentions-per-user) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,6 +87,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | [0756-pyramid-transition-matrix](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0756-pyramid-transition-matrix) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2402-meeting-rooms-iii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2402-meeting-rooms-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -112,6 +115,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2402-meeting-rooms-iii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2402-meeting-rooms-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,4 +176,16 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3454-separate-squares-ii) |
+## Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
