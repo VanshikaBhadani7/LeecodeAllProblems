@@ -56,6 +56,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | ------- |
 | [0009-palindrome-number](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0066-plus-one) |
+| [1103-distribute-candies-to-people](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1103-distribute-candies-to-people) |
 | [1390-four-divisors](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1390-four-divisors) |
 | [3433-count-mentions-per-user](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3433-count-mentions-per-user) |
 ## Sorting
@@ -74,6 +75,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0682-baseball-game) |
+| [1103-distribute-candies-to-people](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1103-distribute-candies-to-people) |
 | [2402-meeting-rooms-iii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
