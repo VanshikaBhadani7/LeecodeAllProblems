@@ -35,6 +35,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | [0682-baseball-game](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0682-baseball-game) |
 | [0888-fair-candy-swap](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0888-fair-candy-swap) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1200-minimum-absolute-difference](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1390-four-divisors) |
@@ -64,6 +65,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | ------- |
 | [0088-merge-sorted-array](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0088-merge-sorted-array) |
 | [0888-fair-candy-swap](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0888-fair-candy-swap) |
+| [1200-minimum-absolute-difference](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2402-meeting-rooms-iii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2402-meeting-rooms-iii) |
