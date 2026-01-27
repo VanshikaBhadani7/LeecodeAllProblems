@@ -123,6 +123,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2402-meeting-rooms-iii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2402-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Search
 |  |
 | ------- |
@@ -196,4 +197,12 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
