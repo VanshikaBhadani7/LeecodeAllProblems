@@ -188,6 +188,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0206-reverse-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
@@ -205,4 +206,8 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
