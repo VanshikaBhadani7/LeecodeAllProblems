@@ -52,6 +52,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | [3453-separate-squares-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +143,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1895-largest-magic-square](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/1975-maximum-matrix-sum) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Tree
 |  |
 | ------- |
