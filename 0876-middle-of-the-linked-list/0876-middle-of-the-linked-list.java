@@ -10,6 +10,7 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
+        // simple two pointer
         if(head == null ) {
             return null;
         }
