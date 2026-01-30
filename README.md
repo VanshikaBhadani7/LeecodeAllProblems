@@ -191,6 +191,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0206-reverse-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
@@ -212,5 +213,6 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
