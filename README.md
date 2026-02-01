@@ -46,6 +46,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | [2402-meeting-rooms-iii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2402-meeting-rooms-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -73,6 +74,7 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | [2402-meeting-rooms-iii](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2402-meeting-rooms-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3433-count-mentions-per-user) |
 ## Simulation
@@ -217,4 +219,8 @@ Hello visitors, here I'll be uploading all my leetcode problems here in daily ba
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/0206-reverse-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VanshikaBhadani7/LeecodeAllProblems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
